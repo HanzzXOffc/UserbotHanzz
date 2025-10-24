@@ -35,8 +35,8 @@ python-dateutil
 emoji
 python-dotenv
 ntgcalls==1.2.1
-numpy==1.26.4
-opencv-python-headless==4.10.0.82
+numpy==1.23.5 --only-binary :all:
+opencv-python==4.5.5.64
 pyromod==1.5
 pykeyboard
 httpx[http2]==0.27.2
